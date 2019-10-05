@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JungaApp</string>
+    <string name="highscore">HIGHSCORE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="music">MUSIC</string>
+    <string name="sounds">SOUNDS</string>
+    <string name="levels">LEVELS</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="realistic">Realistic</string>
+    <string name="sounds">SOUNDS</string>
+    <string name="music">MUSIC</string>
+    <string name="very_hard">Very Hard</string>
+    <string name="_0">0</string>
+    <string name="_0">0</string>
+    <string name="_0">0</string>
+    <string name="_0">0</string>
+</resources>
